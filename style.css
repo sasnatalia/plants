@@ -1,0 +1,12 @@
+* {
+box-sizin: border-box;
+}
+
+.header {
+	border: 1px solid yellowgreen;
+}
+.container {
+	max-width: 1440;
+	width: 1220;
+	height: 193;
+}
